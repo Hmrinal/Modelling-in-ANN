@@ -11,5 +11,15 @@ After making the proper installations data is plotted so that the structure can 
 
 Flattening of dataset is done in order to convert 3D matrix in 2D after which the model is optimized using SGD(Stochastic Gradient Descent) optimizer. Performance is tested in order to seize best possible parameters. Based on the difference between the actual value and the predicted value, an error value also called Cost Function is computed and sent back through the system.
 
+### Training ANN with Stochastic Gradient Descent
+
+- Step-1 Randomly initialize the weights to small numbers close to 0 but not 0.
+- Step-2 Input the first observation of your dataset in the input layer, each feature in one node.
+- Step-3 Forward-Propagation: From left to right, the neurons are activated in a way that the impact of each neuron's activation is   limited by the weights. Propagate the activations until getting the predicted value.
+- Step-4 Compare the predicted result to the actual result and measure the generated error(Cost function).
+- Step-5 Back-Propagation: from right to left, the error is backpropagated. Update the weights according to how much they are responsible for the error. The learning rate decides how much we update weights.
+- Step-6 Repeat step-1 to 5 and update the weights after each observation(Reinforcement Learning)
+- Step-7 When the whole training set passed through the ANN, that makes and epoch. Redo more epochs.
+
 
 
