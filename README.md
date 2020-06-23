@@ -27,6 +27,8 @@ An application programming interface is a computing interface which defines inte
 - Sequential API: normal neural network with linear stack of layers, hence mostly used when we have Classification type model.
 - Functional API: complex neural network structure where we have multiple usage of several small networks, because of which in this case we mostly have Regression type models.
 
+![FunctionalAPI Architecture Diagram](functionalAPI.png)
+
 
 - Saving and Restoring Models
 If we want to save data of our model, it can be saved in different file and then can be restored. That can be done by using the extension "hdf5" or "hd5".
