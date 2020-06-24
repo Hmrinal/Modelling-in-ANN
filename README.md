@@ -40,6 +40,11 @@ If we want to save data of our model, it can be saved in different file and then
 - NumPy
 - Scikit-learn
 
+## 📦 Install
+
+Open the code ```ANN_2.R``` in Rstudio after downloading both RStudio and RStudio for windows simply run it. Before this save the inbuilt dataset in a ```Keras``` so that you can fetch it by putting the location of saved file in the code.
+
+Similarly fetch the files for keras and regression model and run the code line by line by pressing ```Ctrl+Enter```.
 
 
 
