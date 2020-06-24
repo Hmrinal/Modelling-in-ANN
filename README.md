@@ -33,6 +33,15 @@ An application programming interface is a computing interface which defines inte
 - Saving and Restoring Models
 If we want to save data of our model, it can be saved in different file and then can be restored. That can be done by using the extension "hdf5" or "hd5".
 
+## Dependencies
+
+- Keras library
+- RStudio
+- NumPy
+- Scikit-learn
+
+
+
 
 
 
