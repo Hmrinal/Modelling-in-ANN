@@ -11,6 +11,10 @@ After making the proper installations data is plotted so that the structure can 
 
 Flattening of dataset is done in order to convert 3D matrix in 2D after which the model is optimized using SGD(Stochastic Gradient Descent) optimizer. Performance is tested in order to seize best possible parameters. Based on the difference between the actual value and the predicted value, an error value also called Cost Function is computed and sent back through the system.
 
+The model would be presented in somewhat similar way as the diagram below:
+
+![Dataset Diagram](mnistClassification.png)
+
 ### Training ANN with Stochastic Gradient Descent
 
 - Step-1 Randomly initialize the weights to small numbers close to 0 but not 0.
