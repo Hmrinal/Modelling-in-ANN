@@ -76,10 +76,3 @@ Open the code ```ANN_2.R``` in Rstudio after downloading both RStudio and RStudi
 It is to be mentioned that tensorflow libraray should in installed in RStudio. ```miniconda```can be downloaded alternatively.
  
 Similarly fetch the files for keras and regression model and run the code line by line by pressing ```Ctrl+Enter```.
-
-
-
-
-
-
-
