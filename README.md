@@ -41,6 +41,8 @@ For parameter efficiency we use more  than one hidden layer
 - Step-6 Repeat step-1 to 5 and update the weights after each observation(Reinforcement Learning)
 - Step-7 When the whole training set passed through the ANN, that makes and epoch. Redo more epochs.
 
+![Analysis Diagram](analysis.png)
+
 ### API
 An application programming interface is a computing interface which defines interactions between multiple software intermediaries. It defines the kinds of calls or requests that can be made, how to make them, the data formats that should be used. There are two ways in which we can define our model on keras.
 
@@ -74,8 +76,6 @@ Open the code ```ANN_2.R``` in Rstudio after downloading both RStudio and RStudi
 It is to be mentioned that tensorflow libraray should in installed in RStudio. ```miniconda```can be downloaded alternatively.
  
 Similarly fetch the files for keras and regression model and run the code line by line by pressing ```Ctrl+Enter```.
-
-
 
 
 
