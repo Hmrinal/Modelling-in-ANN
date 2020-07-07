@@ -24,6 +24,8 @@ Flexibility of ANN includes some drawbacks like:
 - Weight initilization
 - Type of activation function
 
+![Parameter Diagram](parameters.png)
+
 For parameter efficiency we use more  than one hidden layer 
 - Learning Rate: Half of maximum learning rate. 
 - Batch Size: Should be less than 32 and don't make too small (More than 20)
