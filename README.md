@@ -41,6 +41,8 @@ For parameter efficiency we use more  than one hidden layer
 - Step-6 Repeat step-1 to 5 and update the weights after each observation(Reinforcement Learning)
 - Step-7 When the whole training set passed through the ANN, that makes and epoch. Redo more epochs.
 
+The analysis shows the loss and accuracy of our predictions with test set. This is required in order to know the changes that should be made for enhancing the efficiency of system.
+
 ![Analysis Diagram](analysis.png)
 
 ### API
