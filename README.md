@@ -49,6 +49,8 @@ The analysis shows the loss and accuracy of our predictions with test set. This 
 
 ![Analysis Diagram](analysis.png)
 
+- Analysis Diagram
+
 ### API
 An application programming interface is a computing interface which defines interactions between multiple software intermediaries. It defines the kinds of calls or requests that can be made, how to make them, the data formats that should be used. There are two ways in which we can define our model on keras.
 
@@ -57,6 +59,7 @@ An application programming interface is a computing interface which defines inte
 
 ![FunctionalAPI Architecture Diagram](functionalAPI.png)
 
+- Functional Api 
 
 - Saving and Restoring Models
 If we want to save data of our model, it can be saved in different file and then can be restored. That can be done by using the extension "hdf5" or "hd5".
