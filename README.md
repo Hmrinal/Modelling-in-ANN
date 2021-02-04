@@ -15,6 +15,8 @@ The model would be presented in somewhat similar way as the diagram below:
 
 ![Dataset Diagram](mnistClassification.png)
 
+- Dataset Display
+
 ### Hyperparameters' Tuning
 
 Flexibility of ANN includes some drawbacks like:
