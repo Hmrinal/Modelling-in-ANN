@@ -54,7 +54,7 @@ The analysis shows the loss and accuracy of our predictions with test set. This 
 ### API
 An application programming interface is a computing interface which defines interactions between multiple software intermediaries. It defines the kinds of calls or requests that can be made, how to make them, the data formats that should be used. There are two ways in which we can define our model on keras.
 
-- Sequential API: normal neural network with linear stack of layers, hence mostly used when we have Classification type model.
+- Sequential API: normal neural network with linear stack of layers, hence mostly used when we have `Classification type model`.
 - Functional API: complex neural network structure where we have multiple usage of several small networks, because of which in this case we mostly have Regression type models.
 
 ![FunctionalAPI Architecture Diagram](functionalAPI.png)
