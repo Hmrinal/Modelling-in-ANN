@@ -66,7 +66,7 @@ If we want to save data of our model, it can be saved in different file and then
 
 ### Testing 
 
-Here we have given an example of how the model we created is predicting a value we gave as test. In ```TestConsole``` an anonymous value is provided and our model shows the result as Shoes which can be viewed in ```outputConsole```.
+Here we have given an example of how the model we created is predicting a value we gave as test. In ```TestConsole``` an anonymous value is provided and our model shows the result as Shoes which can be viewed in `outputConsole`.
 
 ![Test Value Diagram](TestConsole.png)
 ![Output Value Diagram](outputConsole.png)
