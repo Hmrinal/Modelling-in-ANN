@@ -20,6 +20,7 @@ The model would be presented in somewhat similar way as the diagram below:
 ### Hyperparameters' Tuning
 
 Flexibility of ANN includes some drawbacks like:
+
 - Number of layers
 - Learning Rate
 - Number of neurons per layer
