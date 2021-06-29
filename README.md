@@ -85,6 +85,6 @@ Here we have given an example of how the model we created is predicting a value 
 ## 📦 Install
 
 Open the code `ANN_2.R` in Rstudio after downloading both RStudio and RStudio for windows simply run it. Before this save the inbuilt dataset in a ```Keras``` so that you can fetch it by putting the location of saved file in the code.
-It is to be mentioned that tensorflow libraray should in installed in RStudio. `miniconda` can be downloaded alternatively.
+It is to be mentioned that tensorflow libraray should in installed in RStudio. `Miniconda` can be downloaded alternatively.
  
 Similarly fetch the files for keras and regression model and run the code line by line by pressing `Ctrl+Enter`.
