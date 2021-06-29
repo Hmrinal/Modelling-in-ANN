@@ -32,6 +32,7 @@ Flexibility of ANN includes some drawbacks like:
 - Parameter displaying diagram
 
 For parameter efficiency we use more  than one hidden layer 
+
 - Learning Rate: Half of maximum learning rate. 
 - Batch Size: Should be less than 32 and don't make too small (More than 20)
 - Epochs: Use early stopping otherwise learning rate will diverge and overfitting happens.
