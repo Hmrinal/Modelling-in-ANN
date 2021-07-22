@@ -41,7 +41,7 @@ For parameter efficiency we use more  than one hidden layer
 
 - Step-1 Randomly initialize the weights to small numbers close to 0 but not 0.
 - Step-2 Input the first observation of your dataset in the input layer, each feature in one node.
-- Step-3 Forward-Propagation: From left to right, the neurons are activated in a way that the impact of each neuron's activation is   limited by the weights. Propagate the activations until getting the predicted value.
+- Step-3 Forward-Propagation: From left to right, the neurons are activated in a way that the impact of each neuron's activation is limited by the weights.   Propagate the activations until getting the predicted value.
 - Step-4 Compare the predicted result to the actual result and measure the generated error(Cost function).
 - Step-5 Back-Propagation: from right to left, the error is backpropagated. Update the weights according to how much they are responsible for the error. The learning rate decides how much we update weights.
 - Step-6 Repeat step-1 to 5 and update the weights after each observation(Reinforcement Learning)
