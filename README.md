@@ -14,7 +14,6 @@ Flattening of dataset is done in order to convert 3D matrix in 2D after which th
 The model would be presented in somewhat similar way as the diagram below:
 
 ![Dataset Diagram](mnistClassification.png)
-
 - Dataset Display
 
 ### Hyperparameters' Tuning
@@ -50,7 +49,6 @@ For parameter efficiency we use more  than one hidden layer
 The analysis shows the loss and accuracy of our predictions with test set. This is required in order to know the changes that should be made for enhancing the efficiency of system.
 
 ![Analysis Diagram](analysis.png)
-
 - Analysis Diagram
 
 ### API
